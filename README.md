@@ -1,3 +1,16 @@
+## 📑 Sumário
+
+* [📋 Pré-requisitos](#pré-requisitos)  
+* [🚀 Passo a Passo: Do ZIP ao Servidor](#passo-a-passo-do-zip-ao-servidor)  
+    * [Passo 1: Baixar e Extrair o Projeto](#passo-1-baixar-e-extrair-o-projeto)  
+    * [Passo 2: Navegar até a Pasta do Projeto](#passo-2-navegar-até-a-pasta-do-projeto)  
+    * [Passo 3: Criar e Ativar um Ambiente Virtual (Venv)](#passo-3-criar-e-ativar-um-ambiente-virtual-venv)  
+    * [Passo 4: Instalar as Dependências](#passo-4-instalar-as-dependências)  
+    * [Passo 5: Configurar o Banco de Dados (Migrate)](#passo-5-configurar-o-banco-de-dados-migrate)  
+    * [Passo 6: (Opcional) Criar um Superusuário](#passo-6-opcional-criar-um-superusuário)  
+    * [Passo 7: Iniciar o Servidor (Runserver)](#passo-7-iniciar-o-servidor-runserver)  
+* [⭐ Dica Bônus: A Forma Recomendada (Git Clone)](#dica-bônus-a-forma-recomendada-git-clone)  
+
 # Guia: Como Iniciar um Projeto Django Existente (do GitHub)
 
 Este guia mostra o passo a passo para baixar um projeto Django (via arquivo ZIP do GitHub) e executá-lo localmente em sua máquina até o `runserver` funcionar.
